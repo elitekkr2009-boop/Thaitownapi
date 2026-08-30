@@ -1,14 +1,14 @@
 {
   
-  "version": 53,
+  "version": 54,
   
-  "version_name": "1.0.53",
+  "version_name": "1.0.54",
   
   "mandatory": false,
   
-  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.53/THAITOWN-SAMP-v1.0.53.apk",
+  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.54/THAITOWN-SAMP-v1.0.54.apk",
   
-  "apk_sha256": "a20bd1f6dd937ca69e7946cd133b59783d300e6ff56b53abcea74259673707f4",
+  "apk_sha256": "6104af51bd7f2b154e081f0874505355d5fa3490beb158fc0e0c677afcc57769",
   
   "data": {
     
