@@ -1,14 +1,14 @@
 {
   
-  "version": 57,
+  "version": 59,
   
-  "version_name": "1.0.57",
+  "version_name": "1.0.59",
   
   "mandatory": true,
   
-  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.57/THAITOWN-SAMP-v1.0.57-debug.apk",
+  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.59/GTA-2.11-release.apk",
   
-  "apk_sha256": "d73b557dfebe5ba6af2ff60b57873c6a15ffcc15a7417b6a7d1bacc7276a4690",
+  "apk_sha256": "741d2e7751123dd5e813f0a9822bb52d8960917fb348702fda439f40efd6e0fc",
   
   "data": {
     
