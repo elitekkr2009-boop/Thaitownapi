@@ -1,14 +1,14 @@
 {
   
-  "version": 67,
+  "version": 68,
   
-  "version_name": "1.0.67",
+  "version_name": "1.0.68",
   
   "mandatory": true,
   
-  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.67/GTA-2.11-release.apk",
+  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.68/GTA-2.11-release.apk",
   
-  "apk_sha256": "975a48bee594c48c083961548fa209dab7745cf06e43a9876cc2f99169f68bd3",
+  "apk_sha256": "ab6541d8702dc2a9a56d49b35e57c53ec789a025ac5de280518ac683924c65eb",
   
   "data": {
     
