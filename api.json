@@ -1,14 +1,14 @@
 {
   
-  "version": 73,
+  "version": 74,
   
-  "version_name": "1.0.73",
+  "version_name": "1.0.74",
   
   "mandatory": true,
   
-  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.73/GTA-2.11-release.apk",
+  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.74/GTA-2.11-release.apk",
   
-  "apk_sha256": "3bbd989fd2ee8e982f9fff615e5a7b7f494883162f74b7085b5a22bd258aeb8d",
+  "apk_sha256": "2c40014423b092b793c9c457dc82adcd6aa22297dacd687bab4fb406c4cc43f6",
   
   "data": {
     
@@ -63,3 +63,4 @@
     {"path":"texdb/gta_int/gta_int.dxt.dat","size":13592262},
     
     {"path":"texdb/gta_int/gta_int.dxt.tmb","size":663408},
+
