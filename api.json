@@ -22,7 +22,7 @@
   
   "patch": {
     
-    "version": 4,
+    "version": 5,
     
     "url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.71/patch.zip",
     
@@ -63,3 +63,4 @@
     {"path":"texdb/gta_int/gta_int.dxt.dat","size":13592262},
     
     {"path":"texdb/gta_int/gta_int.dxt.tmb","size":663408},
+
