@@ -1,102 +1,17 @@
 {
-  
-  "version": 76,
-  
-  "version_name": "1.0.76",
-  
+  "version": 80,
+  "version_name": "1.0.80",
   "mandatory": true,
-  
-  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.76/GTA-2.11-release.apk",
-  
-  "apk_sha256": "29cc6e279cf830dbf64262555f10f036bf678c5ac987ca5ddc8758c4f9b56a13",
-  
+  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.80/GTA-2.11-release.apk",
+  "apk_sha256": "283deb6ce57922993d07da93c2b7554ca5a5b8f23fe4da1f847c55b9180f4276",
   "data": {
-    
     "version": 211,
-    
     "url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.52/data.zip",
-    
     "sha256": "b4bbb0888589dc8d61514e9c80efb527be57a5d3b3d934b9f3980d4295a18be1"
-    
   },
-  
   "patch": {
-    
-    "version": 11,
-    
-    "url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.71/patch.zip",
-    
-    "sha256": "342d549aab700b243454881db8f6097d0a6337cf8595df1b510f3df780c23053",
-    
-    "size": 557229383
-    
-  },
-  
-  "game_files": [
-    
-    {"path":"texdb/SAMPCOL.img","size":4253696},
-    
-    {"path":"texdb/gta3/gta3.dxt.dat","size":196793824},
-    
-    {"path":"texdb/gta3/gta3.dxt.tmb","size":531420},
-    
-    {"path":"texdb/gta3/gta3.dxt.toc","size":50224},
-    
-    {"path":"texdb/gta3/gta3.etc.dat","size":197208568},
-    
-    {"path":"texdb/gta3/gta3.etc.tmb","size":581532},
-    
-    {"path":"texdb/gta3/gta3.etc.toc","size":50224},
-    
-    {"path":"texdb/gta3/gta3.pvr.dat","size":126710926},
-    
-    {"path":"texdb/gta3/gta3.pvr.tmb","size":800380},
-    
-    {"path":"texdb/gta3/gta3.pvr.toc","size":50224},
-    
-    {"path":"texdb/gta3/gta3.txt","size":799062},
-    
-    {"path":"texdb/gta3/gta3.unc.tmb","size":1485500},
-    
-    {"path":"texdb/gta3.img","size":342102016},
-    
-    {"path":"texdb/gta_int/gta_int.dxt.dat","size":13592262},
-    
-    {"path":"texdb/gta_int/gta_int.dxt.tmb","size":663408}
-    
-  ]
-  
+    "version": 1,
+    "url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.80/thaitown-data-patch-v1.zip",
+    "sha256": "1779429124df1d19c4f41ef814675099595d24325848cb9de7eba401181e34f5"
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
