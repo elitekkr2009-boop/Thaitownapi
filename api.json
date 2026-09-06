@@ -1,14 +1,14 @@
 {
   
-  "version": 83,
+  "version": 84,
   
-  "version_name": "1.0.83",
+  "version_name": "1.0.84",
   
   "mandatory": true,
   
-  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.83/GTA-2.11-release.apk",
+  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.84/GTA-2.11-release.apk",
   
-  "apk_sha256": "7fbdeb38232bfb47bb7e90d8302d46f2d5c4aa150bbaf4d207a5e7f31c361a7a",
+  "apk_sha256": "e6a28f45a5f8e8021dfc1f4fb574606a1218e1fb4a735119b322a6665c324fa3",
   
   "data": {
     
