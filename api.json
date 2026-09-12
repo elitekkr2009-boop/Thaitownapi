@@ -1,14 +1,14 @@
 {
   
-  "version": 89,
+  "version": 99,
   
-  "version_name": "1.0.95",
+  "version_name": "1.0.99",
   
   "mandatory": true,
   
-  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.95/THAIzAPK.1.0.95.apk",
+  "apk_url": "https://github.com/elitekkr2009-boop/Thaitownapi/releases/download/v1.0.99/THAIz.APK.1.0.99.apk",
   
-  "apk_sha256": "14b028350256bc6983223072dbae9ba93ea742e353171a7d65591bbecb1d2cb3",
+  "apk_sha256": "32a71a47ae8d35204e11575d22dae26004a5c6a9ed27573653f09a18d9ad1ebc",
   
   "data": {
     
